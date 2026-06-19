@@ -45,6 +45,7 @@ A curated list of resources focused on optimizing content and websites for Large
 
 *   [8 AI SEO Tools We Absolutely Love Using in 2025](https://backlinko.com/ai-seo-tools) - A curated list of AI tools for SEO from Backlinko.
 *   [Ahrefs AI Agents - Relevance AI](https://relevanceai.com/agent-templates-software/ahrefs) - Information on using Ahrefs data with AI agents for automation.
+*   [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Courses & Learning Resources
 
