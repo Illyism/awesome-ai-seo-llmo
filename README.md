@@ -35,6 +35,7 @@ A curated list of resources focused on optimizing content and websites for Large
 ### AI Visibility & Monitoring
 
 *   [AISEOTracker](https://aiseotracker.com/) - A tool specifically designed for tracking visibility in AI-driven search results.
+*   [LLM Pulse](https://llmpulse.ai) - All-in-one AI search platform tracking brand visibility, mentions, citations, sentiment and share of voice across ChatGPT, Perplexity, Gemini, and Google AI Overviews.
 
 ### Content & Research Tools
 
