@@ -45,6 +45,7 @@ A curated list of resources focused on optimizing content and websites for Large
 
 *   [8 AI SEO Tools We Absolutely Love Using in 2025](https://backlinko.com/ai-seo-tools) - A curated list of AI tools for SEO from Backlinko.
 *   [Ahrefs AI Agents - Relevance AI](https://relevanceai.com/agent-templates-software/ahrefs) - Information on using Ahrefs data with AI agents for automation.
+*   [AnswerLens](https://app.sfdj.net/) - B2B SaaS public-evidence audit for crawlable pages, metadata, pricing, comparison pages, proof, and llms.txt.
 
 ## Courses & Learning Resources
 
