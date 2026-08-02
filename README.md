@@ -45,6 +45,7 @@ A curated list of resources focused on optimizing content and websites for Large
 
 *   [8 AI SEO Tools We Absolutely Love Using in 2025](https://backlinko.com/ai-seo-tools) - A curated list of AI tools for SEO from Backlinko.
 *   [Ahrefs AI Agents - Relevance AI](https://relevanceai.com/agent-templates-software/ahrefs) - Information on using Ahrefs data with AI agents for automation.
+*   [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Check whether documented AI crawler user agents can reach a website and review the robots.txt and page-level rules that affect access.
 
 ## Courses & Learning Resources
 
