@@ -45,6 +45,7 @@ A curated list of resources focused on optimizing content and websites for Large
 
 *   [8 AI SEO Tools We Absolutely Love Using in 2025](https://backlinko.com/ai-seo-tools) - A curated list of AI tools for SEO from Backlinko.
 *   [Ahrefs AI Agents - Relevance AI](https://relevanceai.com/agent-templates-software/ahrefs) - Information on using Ahrefs data with AI agents for automation.
+*   [geolint](https://github.com/iliasabk/geolint) - ESLint-style linter for AI-search readiness: robots.txt across 51 AI crawler tokens, llms.txt validation, structured data and citability. 51 rules, SARIF, GitHub Action, MCP server. MIT.
 
 ## Courses & Learning Resources
 
