@@ -35,6 +35,7 @@ A curated list of resources focused on optimizing content and websites for Large
 ### AI Visibility & Monitoring
 
 *   [AISEOTracker](https://aiseotracker.com/) - A tool specifically designed for tracking visibility in AI-driven search results.
+*   [Proofsource](https://proofsource.co/) - Tracks which buyer questions name your brand in ChatGPT, Perplexity, Claude and Google AI Overviews, which competitors are named instead, which sources are cited, and what to fix.
 
 ### Content & Research Tools
 
